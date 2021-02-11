@@ -1,1 +1,2 @@
 # Hangman
+Python Learning project. 
